@@ -1,1 +1,1 @@
-print("astronomy")d
+print("astronomy")ds
